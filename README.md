@@ -22,7 +22,7 @@ Create a personalized haven with secure login and sign-up features. CartBazaar e
 For the wizards behind the scenes, here are your keys to the kingdom:
 
 - **Admin Email:** eve.holt@reqres.in
-- **Password:** Citysilicka
+- **Password:** Cityslicka
 
 ## Responsive Wonderland 🌐
 
