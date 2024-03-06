@@ -4,7 +4,7 @@ Welcome to CartBazaar, your go-to destination for all things electronics and hom
 
 ## Tech Magic 
 
-CartBazaar is not just a website; it's a technological marvel! Crafted with love using a blend of JavaScript, React, Redux, Chakra UI, CSS, and HTML, it promises a visually stunning and functionally rich journey.
+CartBazaar is not just a website , it's a technological marvel! Crafted with love using a blend of JavaScript, React, Redux, Chakra UI, CSS, and HTML, it promises a visually stunning and functionally rich journey.
 
 ## Seamless Shopping Experience 🛍️
 
