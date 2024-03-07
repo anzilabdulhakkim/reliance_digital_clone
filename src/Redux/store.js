@@ -1,4 +1,4 @@
-import { applyMiddleware,combineReducers, compose, legacy_createStore,} from "redux";
+import { applyMiddleware,combineReducers, compose, createStore,} from "redux";
 import thunk from "redux-thunk";
 import { adminReducer } from "./admin/admin.reducer";
 import { authAdminReducer } from "./adminAuth/adminAuth.reducer";
@@ -15,7 +15,7 @@ import {postReducer} from "./Products/product.reducer"
         authManager : authReducer,
   });
   
-  export const store = legacy_createStore(
+  export const store = createStore(
     rootReducer,
     composeInhancer(applyMiddleware(thunk))
   );
